@@ -1,0 +1,25 @@
+Comments: 
+
+- It is the short notes on the java code
+- Comments are used to explain the code.
+- It is readable sentance
+- The comment will not executed
+- It will not disturb the execution of programe.
+
+
+Types of Comments:
+1. Single Line comments
+2. Multi Line comments
+
+
+1. Single Line Comments:
+    - Single line comments are starts with double slash(//)
+    - We can use before a line of code
+    - We can use at end of the line of code
+    - It is used for short command
+
+
+2. Multi Line Comments:
+    - Multi line starts with /* and ends with */
+    - Any text between /* and */ will be ignored by Java
+    - It is used for Longer command
