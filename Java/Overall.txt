@@ -1,0 +1,56 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Java:
+
+1. Java is a programing language
+2. Java is based on OOPS concept
+3. OOPS mean Object oriented programing structute
+4. Java is introduced by SunMicro System
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Eclipse:
+
+1. It is an IDE
+2. IDE mean, Integrated Development Kit
+3. It is a Dedicated tool to Handle the Java based projects
+4. It is used for testers to Handle the Automation script with Selenium
+
+-----------------------------------------------------------------------------
+
+AutoSave:
+
+1. Normally we shuold save the file manually before running the java programe
+2. If we enabled the Autosave option mean, It will save the java programe automatically.
+
+
+Steps To Enable AutoSave option:
+ 
+   1. Type Autosave in Quickbox text field in Top right cornor and select the autosave option in the list
+   2. Click the checkbox in the Enable autosave for dirty editors
+   3. Enter the time in seconds for autosave
+
+
+-----------------------------------------------------------------------------
+
+Java Project:
+
+Project --> Source Folders --> Package --> Class
+
+-------------------------------------------
+
+Package: Package is combination of multiple class
+
+-------------------------------------------
+
+Source Folder:
+ 
+ 1. Source folder is combination of multiple package
+ 2. src is the default source folder which is automatically enabled once created the project
+
+-------------------------------------------
+
+Project: It is a combination of all source folder, normal folder, files
+
+-------------------------------------------------------------------------------
