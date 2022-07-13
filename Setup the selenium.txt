@@ -1,0 +1,14 @@
+Setup the Selenium project:
+
+1. Create a Java project in Eclipse
+2. Download the selenium jar
+3. Create folder named Lib
+4. Copy and paste the selenium jar under Lib folder
+5. Right click the JRE System Library
+6. click Build path
+7. click configure Build path
+8. click Add jars
+9. Choose the project name
+10. Choose the Lib folder
+11. Choose the Selenium library
+12. Click ok and Apply
