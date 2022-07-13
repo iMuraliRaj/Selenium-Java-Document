@@ -1,0 +1,21 @@
+Block of code:
+
+It is the block that used to have the line of codes in a single block.
+
+Syntax:
+
+{
+
+	Statement for the block;
+	
+}
+
+
+
+Example:
+
+1. Class
+2. Method
+3. If statement
+4. Else statement
+5. For Loop statement
