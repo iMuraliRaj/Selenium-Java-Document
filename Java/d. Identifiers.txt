@@ -1,0 +1,58 @@
+Identifier:
+
+Identifer are the name which is used to identify the object or attribute.
+
+ 1. Class
+ 2. Variable
+ 3. Object Name
+ 4. Method
+ 
+ 1. Class Name:
+    1.Starting letter should be in Capital Letter
+     
+     class Divya
+     class Java
+     class Gold
+     class Automation
+     class Testing
+    
+    2. Every words should start with Capital letter if the class name having multiple words
+    
+      class AutomationTester
+      class ManualTester
+      class GoldMedalist
+      class SleepingPerson
+      class HomeWork
+      
+      
+ 2. Variable Name:
+     1, It should be in camel case.
+      
+       Example: name, age, genter
+       
+       Example: automationTesting,  manualTesting
+       
+ 3. Method Name:
+     1, It should be in camel case.
+      
+       Example: name, age, genter
+       
+       Example: automationTesting,  manualTesting     
+       
+       
+ 4. Object Name:
+     1, It should be in camel case.
+      
+       Example: name, age, genter
+       
+       Example: automationTesting,  manualTesting    
+       
+       
+       
+       
+       
+Common Rules:
+1. Number should not use
+2. Special character should not use
+3. Space should not use
+4. Should not use shortwords
