@@ -1,0 +1,12 @@
+1. ToolQA website entering the values in text field
+2. Dropdown box using Select class
+3. Export as Executable JAR
+
+------------------------------------------------------------------------------------------
+
+1. String and It's method
+2. String and conctanation
+3. convert number into String
+4. addition, substraction, multiplication in syso and variable in Integer
+
+------------------------------------------------------------------------------------------
