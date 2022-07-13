@@ -1,0 +1,13 @@
+Main Method:
+
+1. The main() is the starting point for the class to Execute the programe
+2. We should declare the main method in the class to execute the programe.
+
+
+main() syntax:
+
+public static void main(String[]args)
+{
+
+
+}
