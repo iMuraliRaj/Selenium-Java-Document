@@ -1,0 +1,43 @@
+------------------------------------------------------------------------------------------
+
+1. What is Java
+2. What are the datatype
+3. How to declare the variable
+4. How to print the variable
+5. What is String
+6. What is integer
+7. What is boolean
+8. What is Character
+9. How to print any statement
+10. How to create a method
+11. How to create a class
+12. What are the identifiers and it's rules
+13. Explain if condition
+14. Explain the For loop
+15. What is static method
+16. What is Non-Static method
+17. How to access the Static method from another class
+18. How to access the Non-Static method from another class
+19. How to create an object for the class
+20. what is the structure of the java project in eclipse
+21. What is Autosave
+22. What is Inheritance
+
+------------------------------------------------------------------------------------------
+
+1. How to Launch the browser
+2. What is get()
+3. What is close()
+4. What is sleep()
+5. What is clear()
+6. How to Maximize the window..?
+7. How to Minimize the window..?
+8. How to get the current title of the page..?
+9. How to get the current URL of the page..?
+10. What is click()
+12. What is findElement()
+13. What is findElements()
+14. What is xpath and types
+14. How to get the xpath of the element
+
+------------------------------------------------------------------------------------------
