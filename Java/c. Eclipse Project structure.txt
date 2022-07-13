@@ -1,0 +1,22 @@
+Java Project:
+
+Project --> Source Folders --> Package --> Class
+
+-------------------------------------------
+
+Package: Package is combination of multiple class
+
+-------------------------------------------
+
+Source Folder:
+ 
+ 1. Source folder is combination of multiple package
+ 2. src is the default source folder which is automatically enabled once created the project
+
+-------------------------------------------
+
+Project:
+ 
+ 1. It is a combination of all source folder, normal folder, files
+
+
