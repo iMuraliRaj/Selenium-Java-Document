@@ -2,3 +2,6 @@ Selenium:
 
 - It is a Open source tool for the Automation testing
 - It is used to do the Automation testing for Web based application
+- It supports different programing language like Java, Python C#
+- It supports different web browsers like Google Chrome, Operamini, Microsoft Edge
+- It can run at different Operating system like Window, Linux, Mac
