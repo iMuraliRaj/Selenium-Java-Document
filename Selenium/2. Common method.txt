@@ -1,0 +1,15 @@
+Common Methods:
+
+1. get()
+2. clear()
+3. click()
+4. sendKeys()
+5. close()
+6. quit()
+
+
+1. get()
+  
+  - The get() is used to hit the link
+  - Ex: driver.get("www.google.com")
+
