@@ -174,3 +174,29 @@
     }
 
 ------------------------------------------------------------------------------------------
+
+15. What is the static method..?
+   
+  - static method is created with the "static" keyword
+
+  Example: 
+
+    public static void tester()
+	{
+	
+	}
+
+------------------------------------------------------------------------------------------
+
+16. What is the Non-Static method..?
+
+  - non-static method is created without the "static" keyword
+
+  Example:
+     
+    public void tester()
+	 {
+
+	 }
+
+------------------------------------------------------------------------------------------
