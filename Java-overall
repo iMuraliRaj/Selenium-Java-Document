@@ -163,6 +163,7 @@
   
   - It is one type of control statement.
   - For loop is used to execute the programe for repeatative times.
+  - It will execute till the condition will be false.
 
   for(int i=0; i<10; i++)
   
