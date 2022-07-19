@@ -247,4 +247,22 @@ Rules:
 2. Spaces should not use in identifiers
 3. Number should not use at starting letter
 
+Class Name:
+1. First letter should start with capital letter
+2. Every word should start with capital letter
+
+Method Name:
+It should write based on the camel case
+
+Object Name:
+It should write based on the camel case
+
+Variable Name:
+It should write based on the camel case
+
+
 ------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+
+
