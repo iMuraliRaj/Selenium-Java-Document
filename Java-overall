@@ -265,4 +265,6 @@ It should write based on the camel case
 
 20. What is the structure of the Eclipse project..?
 
-a. 
+    Project --> Source Folder --> Package --> Class
+
+------------------------------------------------------------------------------------------
