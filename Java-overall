@@ -67,4 +67,57 @@
 
 ------------------------------------------------------------------------------------------
 
+9. How to print any statement
+
+   System.out.println("This is my name")
+
+5. What is String..?
+   
+ - String is one of the Datatype
+ - It is used to declare the values with collection of characters
+ - We are declaring the String value by using double quotes("")
+
+------------------------------------------------------------------------------------------
+   
+6. What is integer
+
+ - Integer is one of the datatype
+ - It is used to declare the value with only numbers
+ - We can declare the integer directly
+
+------------------------------------------------------------------------------------------
+
+7. What is boolean
+
+ - Boolean is one of the datatype
+ - It is used to declare the value true/false
+ - We can declare the booleans value directly
+
+------------------------------------------------------------------------------------------
+
+8. What is Character
+
+ - Character is one of the datatype
+ - It is used to declare the value with single character
+ - We can declare the character value with single qutes('D')
+
+------------------------------------------------------------------------------------------
+
+9. How to print any statement
+
+   System.out.println("This is my name")
+
+------------------------------------------------------------------------------------------
+
+10. How to create main method
+
+ - Main method is a default method in the Java
+ - It is used to execut the class
+
+    public static void main(String[]args)
+	{
+
+
+	}
+
 
