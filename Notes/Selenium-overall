@@ -48,3 +48,21 @@
       driver.findElement(By.xpath("//*[@id='username']")).clear();
 
 ------------------------------------------------------------------------------------------
+
+7. What is click()..?
+
+	- The click() is used to click the element like button, checkbox
+
+	driver.findElement(By.xpath("//*[@id='username']")).click();
+
+------------------------------------------------------------------------------------------
+
+8. What is Thread.sleep()..?
+
+	- The sleep() is used to stop the execution of program for the mentioned time.
+	- We need to pass the time detail by milli seconds
+
+	Thread.sleep(3000); // 3seconds
+
+------------------------------------------------------------------------------------------
+
