@@ -200,3 +200,39 @@
 	 }
 
 ------------------------------------------------------------------------------------------
+
+17. How to access the static method..?
+  
+  - We can access the static method by using it's class name
+
+  Syntax:
+    
+    ClassName.methodName();
+
+------------------------------------------------------------------------------------------
+
+18. How to access the non-static method..?
+
+   - We can access the non-static method by creating the object for the class
+
+ Example:
+ 
+ public class Example
+
+  {
+
+	public void exampleMethod()
+
+	{
+
+	
+	}
+
+
+  }	
+
+	Example exampleObject = new Example();
+
+	exampleObject.exampleMethod();
+
+------------------------------------------------------------------------------------------
