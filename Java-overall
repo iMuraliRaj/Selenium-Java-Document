@@ -10,25 +10,25 @@
 ------------------------------------------------------------------------------------------
 2. What are the datatype
 
- - String
- - Integer
- - Boolean
- - Charactor
- - Float
+ - String  - Declare as String
+ - Integer - Declare as int
+ - Boolean - Declare as boolean
+ - Charactor - Declare as char
+ - Float - Declare as float
  
  ------------------------------------------------------------------------------------------
 3. How to declare the variable
 
     DataType variableName = value;
 
-    String name = "Divya"
+    String name = "Java"
     int age = 56
     char initial = 'A'
 
 ------------------------------------------------------------------------------------------
 4. How to print the variable
 
-    String name="Divya"
+    String name="Java"
     
     System.out.println(name);
 
@@ -263,6 +263,6 @@ It should write based on the camel case
 
 ------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------
+20. What is the structure of the Eclipse project..?
 
-
+a. 
