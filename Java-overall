@@ -163,3 +163,13 @@
   
   - It is one type of control statement.
   - For loop is used to execute the programe for repeatative times.
+
+  for(int i=0; i<10; i++)
+  
+    {
+	
+	   System.out.println("Name")
+
+    }
+
+------------------------------------------------------------------------------------------
