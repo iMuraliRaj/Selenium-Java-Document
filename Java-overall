@@ -268,3 +268,18 @@ It should write based on the camel case
     Project --> Source Folder --> Package --> Class
 
 ------------------------------------------------------------------------------------------
+
+21. AutoSave:
+
+1. Normally we shuold save the file manually before running the java programe
+2. If we enabled the Autosave option mean, It will save the java programe automatically.
+
+
+Steps To Enable AutoSave option:
+ 
+   1. Type Autosave in Quickbox text field in Top right cornor and select the autosave option in the list
+   2. Click the checkbox in the Enable autosave for dirty editors
+   3. Enter the time in seconds for autosave
+
+------------------------------------------------------------------------------------------
+
