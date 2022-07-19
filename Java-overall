@@ -236,3 +236,15 @@
 	exampleObject.exampleMethod();
 
 ------------------------------------------------------------------------------------------
+
+19. What is an identifiers..?
+
+  - Identifiers in Java are symbolic names used for identification. 
+  - They can be a class name, variable name, method name, object name.
+
+Rules:
+1. We should not special characters except underscore(_)
+2. Spaces should not use in identifiers
+3. Number should not use at starting letter
+
+------------------------------------------------------------------------------------------
