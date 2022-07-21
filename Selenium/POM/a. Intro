@@ -1,2 +1,8 @@
 - POM is framework which is used in the Automation testing
 - It create a object repository for Web UI elements
+- The advantage of the model is to reduce the duplication of the codes
+- It used to improve the test maintanance
+
+
+
+
