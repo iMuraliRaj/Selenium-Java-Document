@@ -78,4 +78,9 @@
 	
 ------------------------------------------------------------------------------------------
 	
-	
+11. How to choose the value from dropdown box...?
+
+    - Create a object for the Select class
+    - Pass the WebElement of the dropdown box to the Select class object
+    - Use selectByVisibleText() to select the option from the dropdown box.
+    
