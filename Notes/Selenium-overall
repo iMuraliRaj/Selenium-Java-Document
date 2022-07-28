@@ -84,3 +84,4 @@
     - Pass the WebElement of the dropdown box to the Select class object
     - Use selectByVisibleText() to select the option from the dropdown box.
     
+	Select select = new Select();
