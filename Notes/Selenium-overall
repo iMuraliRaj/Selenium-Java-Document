@@ -84,4 +84,11 @@
     - Pass the WebElement of the dropdown box to the Select class object
     - Use selectByVisibleText() to select the option from the dropdown box.
     
+    	  WebElement element=driver.findElement(By.xpath("//*[@id='idvalue']"));
+	  
+	  Select element = new Select(element);
+	  
+	  element.selectByVisibleText("value")
+	  
+    
 	Select select = new Select();
