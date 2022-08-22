@@ -1,0 +1,8 @@
+	
+		TakesScreenshot sc=(TakesScreenshot)driver;
+		
+		File src = sc.getScreenshotAs(OutputType.FILE);
+		
+		File des = new File("screen.png");
+		
+		FileHandler.copy(src, des);
