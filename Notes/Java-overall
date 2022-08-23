@@ -8,7 +8,7 @@
  - Java is introduced by SunMicro System
 
 ------------------------------------------------------------------------------------------
-2. What are the datatype
+2. What are the datatype  -  correct
 
  - String  - Declare as String
  - Integer - Declare as int
@@ -17,7 +17,7 @@
  - Float - Declare as float
  
  ------------------------------------------------------------------------------------------
-3. How to declare the variable
+3. How to declare the variable - correct
 
     DataType variableName = value;
 
@@ -26,7 +26,7 @@
     char initial = 'A'
 
 ------------------------------------------------------------------------------------------
-4. How to print the variable
+4. How to print the variable - correct
 
     String name="Java"
     
@@ -35,14 +35,14 @@
 
 ------------------------------------------------------------------------------------------
 
-5. What is String..?
+5. What is String..?  - correct
    
  - String is one of the Datatype
  - It is used to declare the values with collection of characters
  - We are declaring the String value by using double quotes("")
 
 ------------------------------------------------------------------------------------------
-6. What is integer
+6. What is integer - correct
 
  - Integer is one of the datatype
  - It is used to declare the value with only numbers
@@ -51,7 +51,7 @@
 ------------------------------------------------------------------------------------------
 
 
-7. What is boolean
+7. What is boolean - correct
 
  - Boolean is one of the datatype
  - It is used to declare the value true/false
@@ -59,7 +59,7 @@
 
 ------------------------------------------------------------------------------------------
 
-8. What is Character
+8. What is Character 
 
  - Character is one of the datatype
  - It is used to declare the value with single character
@@ -67,15 +67,9 @@
 
 ------------------------------------------------------------------------------------------
 
-9. How to print any statement
+9. How to print any statement - correct
 
    System.out.println("This is my name")
-
-5. What is String..?
-   
- - String is one of the Datatype
- - It is used to declare the values with collection of characters
- - We are declaring the String value by using double quotes("")
 
 ------------------------------------------------------------------------------------------
    
