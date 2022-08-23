@@ -66,3 +66,29 @@
 
 ------------------------------------------------------------------------------------------
 
+9. How to maximize the browser...?
+	
+	driver.window().manage().maximize();
+	
+------------------------------------------------------------------------------------------
+
+10. How to minimize the browser...?
+
+	driver.window().manage().minimize();
+	
+------------------------------------------------------------------------------------------
+	
+11. How to choose the value from dropdown box...?
+
+    - Create a object for the Select class
+    - Pass the WebElement of the dropdown box to the Select class object
+    - Use selectByVisibleText() to select the option from the dropdown box.
+    
+    	  WebElement element=driver.findElement(By.xpath("//*[@id='idvalue']"));
+	  
+	  Select element = new Select(element);
+	  
+	  element.selectByVisibleText("value")
+	  
+    
+	Select select = new Select();
